@@ -20,7 +20,7 @@ My hard skills include:
 from my point of view it completely isn't necessary to know some certain technologies, because for exmpl languages use the same OOP-concept, and the majority of them have a similar syntax.
 so what is really important is knowing and understanding the main code patterns, basis principes of clean code, and further in this way
 
-My most interesting soft skills are:
+My most significant soft skills are:
   - Russian (native-speaker)
   - Serbian (almost native)
   - English (B2 upper-intermediate)
