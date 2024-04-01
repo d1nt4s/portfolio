@@ -1,6 +1,11 @@
 # portfolio
 This repository represents the best code parts from my private projects for employers, universities, etc.
 
+It might be uncompleted code, but the main idea of showing them is present how I can use programming language, OOP, in which way I think
+
+This code is my last and my best, that's why I don't want to show you my previous projects - they are so weak compare to how I write code now
+If you want to know about my projects more, I can show some of them (their structure, file autoload, etc) in zoom or in real life. Unfortunately, the most and the best of them are commercial.
+
 The best my skill is that I am sure that I can understand any technology by myself from JS-library to Math Statistics.
 
 My hard skills include:
