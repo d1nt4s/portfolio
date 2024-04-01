@@ -20,4 +20,6 @@ My most interesting soft skills are:
   - Serbian (almost native)
   - English (B2 upper-intermediate)
 
+All my skills I have been getting only from Web-resources, books, and seldom from video-lectures available in Internet. A great thanks to authors.
+
 To discuss with me more about my skills (if you are organisation) or to argue about my thought said before, please write me in telegram @d1ntes
