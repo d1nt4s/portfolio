@@ -1,3 +1,5 @@
+this repository is deprecated, my hard-skills now include more technologies, like RUST and all necessary libraries connected with it tokio (async programming), seaorm, etc., Java (I have wrote with a partner 200+ commits project), PostgreSQL, ...
+
 # portfolio
 This repository represents the best code parts from my private projects for employers, universities, etc.
 
